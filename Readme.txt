@@ -1,6 +1,4 @@
-Thanks for downloading this template!
+This is a resume webpage for Gabriel Perez. 
 
-Template Name: iPortfolio
-Template URL: https://bootstrapmade.com/iportfolio-bootstrap-portfolio-websites-template/
-Author: BootstrapMade.com
-License: https://bootstrapmade.com/license/
+Access here:
+gaboperezayala.github.io
